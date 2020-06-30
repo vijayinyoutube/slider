@@ -22,7 +22,7 @@ class _PageClassState extends State<PageClass> {
               ),
             );
           },
-          child: Text("Next"),
+          child: Text("Next Page"),
         ),
       ),
     );
